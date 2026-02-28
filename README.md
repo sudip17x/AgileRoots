@@ -1,9 +1,13 @@
 # QA TEST REPORT
 
 **Project Name:** AgileRoots
+
 **Application Type:** Web-Based Project Management System
+
 **Technology:** React.js (Frontend SPA)
-**Prepared By:** QA Engineer
+
+**Prepared By:** SUDIP GHOSH 
+
 **Test Cycle:** Initial Release Validation
 
 
